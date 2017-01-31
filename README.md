@@ -1,6 +1,10 @@
 Privacy and Security 101
 ========
 
+This topic is a *process.* Nobody has to feel bad or get depressed
+about not being "perfect." There is no finish line to cross. Feel good
+that you moved yourself in the right direction *today*!
+
 Who is the threat and why?
 --------
 
@@ -8,9 +12,13 @@ Who is the threat and why?
 * opinion vs. silencer, bully, doxing
 * citizen vs. stalker
 * citizen vs. identity theft
+* citizen vs. malware, botnet managers
 
-101 checklist
+Menu of topics
 --------
+
+You don't have to order one of everything on the menu! This is not a
+checklist.
 
 * don't let browser store password
 * non gmail address
@@ -24,12 +32,29 @@ Who is the threat and why?
 * really random password
 * disk encryption
 * 2 factor auth
-* click wisely
+* click wisely (incl tracking links, not just phishing)
+* think very hard before giving out any password
 * beware public wifi
+* don't auto-download email images
+* don't give your email address to merchants etc who ask
+* "checkout as guest" is at least one less account to worry about
+* look which apps can track location in the background
+
+Source: Forbes magazine
+--------
+* google alert on your name
+
+* sign out of Facebook etc. when you're done (however, staying signed
+  in may be better than giving browser your password).
+
+* pay in cash
+* check your facebook settings ("friends only")
+* if not using Tor, clear out history & cookies every so often.
 
 resources I've tried
 --------
 * https://haveibeenpwned.com/
+* https://panopticlick.eff.org/
 
 beyond 101, if you're interested
 --------
@@ -98,4 +123,4 @@ Mentioned on cryptoparty mailing list. I haven't tried many of these.
 
 * http://secushare.org/comparison
 
-* https://panopticlick.eff.org/  or  https://amiunique.org/
+* https://amiunique.org/
