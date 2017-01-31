@@ -41,9 +41,10 @@ beyond 101, if you're interested
 * protonmail, mailvelope
 
 
-Big old list mentioned on cryptoparty mailing list, which I haven't
-tried
-======== 
+Big old list
+========
+
+Mentioned on cryptoparty mailing list. I haven't tried many of these.
 
 * prism-break.org
 
@@ -97,7 +98,3 @@ tried
 * http://secushare.org/comparison
 
 * https://panopticlick.eff.org/  or  https://amiunique.org/
-
-
-
-
