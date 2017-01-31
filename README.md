@@ -25,6 +25,7 @@ Who is the threat and why?
 * disk encryption
 * 2 factor auth
 * click wisely
+* beware public wifi
 
 resources I've tried
 --------
