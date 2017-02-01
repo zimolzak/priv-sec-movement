@@ -9,13 +9,16 @@ Who is the threat and why?
 --------
 
 * citizen vs. ads
-* opinion vs. silencer, bully, doxing
+* citizen w/ opinion vs. silencer, bully, doxing
 * citizen vs. stalker
 * citizen vs. identity theft
 * citizen vs. malware, botnet managers
 
 Menu of topics
 --------
+
+**Note to John:** This section needs the most review & will more or
+less be my focus for the session.
 
 You don't have to order one of everything on the menu! This is not a
 checklist.
@@ -39,6 +42,8 @@ checklist.
 * don't give your email address to merchants etc who ask
 * "checkout as guest" is at least one less account to worry about
 * look which apps can track location in the background
+* Consider not using "hey Siri," "OK Google," and related.
+* Maybe not even Siri at all?
 
 Source: Forbes magazine
 --------
