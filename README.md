@@ -1,16 +1,27 @@
 Privacy and Security 101
 ========
 
+This topic is a *process.* Nobody has to feel bad or get depressed
+about not being "perfect." There is no finish line to cross. Feel good
+that you moved yourself in the right direction *today*!
+
 Who is the threat and why?
 --------
 
 * citizen vs. ads
-* opinion vs. silencer, bully, doxing
+* citizen w/ opinion vs. silencer, bully, doxing
 * citizen vs. stalker
 * citizen vs. identity theft
+* citizen vs. malware, botnet managers
 
-101 checklist
+Menu of topics
 --------
+
+**Note to John:** This section needs the most review & will more or
+less be my focus for the session.
+
+You don't have to order one of everything on the menu! This is not a
+checklist.
 
 * don't let browser store password
 * non gmail address
@@ -24,8 +35,15 @@ Who is the threat and why?
 * really random password (or at least one without obvious meaning)
 * disk encryption
 * 2 factor auth
-* click wisely
+* click wisely (incl tracking links, not just phishing)
+* think very hard before giving out any password
 * beware public wifi
+* don't auto-download email images
+* don't give your email address to merchants etc who ask
+* "checkout as guest" is at least one less account to worry about
+* look which apps can track location in the background
+* Consider not using "hey Siri," "OK Google," and related.
+* Maybe not even Siri at all?
 * consider switching off wifi & bluetooth on phone until needed
 * iPhone message app: contact: (i) button: are you sharing your
   location?
@@ -33,6 +51,17 @@ Who is the threat and why?
   technology.
 * put some kind of password on most things that will take one (your
   home wifi).
+
+Source: Forbes magazine
+--------
+* google alert on your name
+
+* sign out of Facebook etc. when you're done (however, staying signed
+  in may be better than giving browser your password).
+
+* pay in cash
+* check your facebook settings ("friends only")
+* if not using Tor, clear out history & cookies every so often.
 
 bring
 --------
