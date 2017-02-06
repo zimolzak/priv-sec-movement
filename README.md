@@ -21,21 +21,35 @@ Who is the threat and why?
 * auto updates
 * Tor browser
 * Signal
-* really random password
+* really random password (or at least one without obvious meaning)
 * disk encryption
 * 2 factor auth
 * click wisely
 * beware public wifi
+* consider switching off wifi & bluetooth on phone until needed
+* iPhone message app: contact: (i) button: are you sharing your
+  location?
+* if it's critical and if you can, meet in person & don't depend on
+  technology.
+* put some kind of password on most things that will take one (your
+  home wifi).
+
+bring
+--------
+* diceware: english, spanish, portuguese
+* dice
 
 resources I've tried
 --------
 * https://haveibeenpwned.com/
+* https://panopticlick.eff.org/
 
 beyond 101, if you're interested
 --------
 
-* private mode avoids cookies, storing history, but ISP can what sites
-  just fine. Tor stops that. vpn is next on top of that.
+* private mode avoids cookies and avoids storing history, but ISP can
+  see what sites just fine. Tor stops that. vpn is next on top of
+  that.
 
 * GPG (email self defense)
 
@@ -49,13 +63,11 @@ Mentioned on cryptoparty mailing list. I haven't tried many of these.
 
 * prism-break.org
 
-* EFF's Surveillance Self-Defense Guide
+* Surveillance Self-Defence, Electronic Frontier Foundation
 
 * Tactical Tech's Data Detox Kit
 
 * Hack Blossom's DIY feminist security
-
-* Surveillance Self-Defence, Electronic Frontier Foundation
 
 * How to Protect Yourself From Government Surveillance and Criminal
   Hackers, ACLU
@@ -98,4 +110,4 @@ Mentioned on cryptoparty mailing list. I haven't tried many of these.
 
 * http://secushare.org/comparison
 
-* https://panopticlick.eff.org/  or  https://amiunique.org/
+* https://amiunique.org/
