@@ -35,7 +35,7 @@ checklist.
 * really random password (or at least one without obvious meaning)
 * disk encryption
 * 2 factor auth
-* click wisely (incl tracking links, not just phishing)
+* click wisely (incl recognize tracking links, not just phishing, mouseover)
 * think very hard before giving out any password
 * beware public wifi
 * don't auto-download email images
