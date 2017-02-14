@@ -1,10 +1,6 @@
 Privacy and Security 101
 ========
 
-This topic is a *process.* Nobody has to feel bad or get depressed
-about not being "perfect." There is no finish line to cross. Feel good
-that you moved yourself in the right direction *today*!
-
 Who is the threat and why?
 --------
 
