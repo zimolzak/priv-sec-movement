@@ -1,8 +1,14 @@
 Privacy and Security 101
 ========
 
-See LaTeX file for the main content! This Readme is mainly for
-supplementary content for the presenters, not for the main handout.
+I've committed a PDF of version 0.1 of this handout, so people can get
+a feel for the formatting.
+
+See LaTeX file for the main and *updated* content! This Readme is
+mainly for supplementary content for the presenters, not for the main
+handout. The PDF won't *necessarily* be updated with each edit I make
+to the LaTeX source, because I don't like doing that in Git
+repositories.
 
 bring
 --------
@@ -35,8 +41,10 @@ beyond 101, if you're interested
 --------
 
 * private mode avoids cookies and avoids storing history, but ISP can
-  see what sites just fine. Tor stops that. vpn is next on top of
-  that.
+  see what sites just fine. Tor stops that.
+
+* ISP can see you're using Tor. VPN would be a next step on top of
+  Tor.
 
 * GPG (email self defense)
 * protonmail, mailvelope
@@ -46,10 +54,11 @@ beyond 101, if you're interested
 * cryptoparty.in/boston
 
 
-Big old list
+Further list of resources
 ========
 
-Mentioned on cryptoparty mailing list. I haven't tried many of these.
+Resources mentioned on cryptoparty mailing list. I haven't tried many
+of these.
 
 * prism-break.org
 
