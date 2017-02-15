@@ -1,14 +1,8 @@
 Privacy and Security 101
 ========
 
-Who is the threat and why?
---------
-
-* citizen vs. ads
-* citizen w/ opinion vs. silencer, bully, doxing
-* citizen vs. stalker
-* citizen vs. identity theft
-* citizen vs. malware, botnet managers
+See LaTeX file for the main content! This Readme is mainly for
+supplementary content for the presenters, not for the main handout.
 
 bring
 --------
@@ -19,6 +13,23 @@ resources I've tried
 --------
 * https://haveibeenpwned.com/
 * https://panopticlick.eff.org/
+
+why auto updates
+--------
+
+    \noindent Why auto updates? Example of the type of thing that gets fixed in
+    updates (from the OpenSSL toolkit, January 2017): ``BN\_mod\_exp may
+    produce incorrect results on x86\_64. There is a carry propagating bug
+    in the x86\_64 Montgomery squaring procedure. No EC algorithms are
+    affected. Analysis suggests that attacks against RSA and DSA as a
+    result of this defect would be very difficult to perform and are not
+    believed likely\ldots{}.''
+
+    I have no idea what Montgomery squaring is, although I sort of know
+    what some of the other stuff is. I \emph{do} know that little things
+    like this get fixed very often, and lots of little improvements add up
+    to a big improvement.
+
 
 beyond 101, if you're interested
 --------
