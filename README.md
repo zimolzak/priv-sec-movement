@@ -33,6 +33,7 @@ beyond 101, if you're interested
 * YubiKey
 * LibreBoot
 * VPN
+* cryptoparty.in/boston
 
 
 Big old list
