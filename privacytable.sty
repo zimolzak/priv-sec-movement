@@ -1,3 +1,13 @@
 \ProvidesPackage{privacytable}
 
-\newcommand{\begintable}{\begin{tabular}{p{5in}l}\hline\textbf{Tip} & \textbf{Me?} \\ \hline}
+\newcommand{\begintable}{
+  \begin{tabular}{p{5in}l}
+    \hline
+    \textbf{Tip} & \textbf{Me?} \\ 
+    \hline
+}
+
+\renewcommand{\endtable}{
+  \hline
+  \end{tabular}
+}
