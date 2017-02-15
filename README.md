@@ -28,8 +28,11 @@ beyond 101, if you're interested
   that.
 
 * GPG (email self defense)
-
 * protonmail, mailvelope
+* password manager
+* YubiKey
+* LibreBoot
+* VPN
 
 
 Big old list
