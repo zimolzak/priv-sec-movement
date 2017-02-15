@@ -43,7 +43,6 @@ beyond 101, if you're interested
 * password manager
 * YubiKey
 * LibreBoot
-* VPN
 * cryptoparty.in/boston
 
 
