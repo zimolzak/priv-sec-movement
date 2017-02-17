@@ -1,14 +1,16 @@
 Privacy and Security 101
 ========
 
+To render the PDFs from LaTex source, do `make clean; make`
+
 I've committed a PDF of version 0.1 of this handout, so people can get
 a feel for the formatting.
 
 See LaTeX file for the main and *updated* content! This Readme is
 mainly for supplementary content for the presenters, not for the main
 handout. The PDF won't *necessarily* be updated with each edit I make
-to the LaTeX source, because I don't like doing that in Git
-repositories.
+to the LaTeX source, because I don't like committing binaries or
+generated files in Git repositories unless there's a good reason.
 
 bring
 --------
