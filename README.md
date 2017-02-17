@@ -1,16 +1,17 @@
 Privacy and Security 101
 ========
 
-To render the PDFs from LaTex source, do `make clean; make`
+To render the PDFs from LaTeX source, do `make clean; make`
 
 I've committed a PDF of version 0.1 of this handout, so people can get
-a feel for the formatting.
+a feel for the formatting. However! See the LaTeX file for the main
+and *updated* content! The PDF won't *necessarily* be updated with
+each edit I make to the LaTeX source, because I don't like committing
+binaries or generated files in Git repositories unless there's a good
+reason.
 
-See LaTeX file for the main and *updated* content! This Readme is
-mainly for supplementary content for the presenters, not for the main
-handout. The PDF won't *necessarily* be updated with each edit I make
-to the LaTeX source, because I don't like committing binaries or
-generated files in Git repositories unless there's a good reason.
+This Readme is mainly for supplementary content for the presenters,
+not for the main handout.
 
 bring
 --------
@@ -53,7 +54,6 @@ beyond 101, if you're interested
 * password manager
 * YubiKey
 * LibreBoot
-* cryptoparty.in/boston
 
 
 Further list of resources
