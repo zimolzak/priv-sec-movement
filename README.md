@@ -13,45 +13,48 @@ reason.
 This Readme is mainly for supplementary content for the presenters,
 not for the main handout.
 
-bring
+Bring
 --------
 * diceware: english, spanish, portuguese
 * dice
 
-resources I've tried
+Resources I've tried
 --------
 * https://haveibeenpwned.com/
 * https://panopticlick.eff.org/
 
-why auto updates
+* Some tips adapted from: "10 Incredibly Simple Things You Should Be
+Doing To Protect Your Privacy." Kashmir Hill. Forbes Magazine,
+2012-08-23.
+
+Why auto updates?
 --------
 
-    \noindent Why auto updates? Example of the type of thing that gets fixed in
-    updates (from the OpenSSL toolkit, January 2017): ``BN\_mod\_exp may
-    produce incorrect results on x86\_64. There is a carry propagating bug
-    in the x86\_64 Montgomery squaring procedure. No EC algorithms are
-    affected. Analysis suggests that attacks against RSA and DSA as a
-    result of this defect would be very difficult to perform and are not
-    believed likely\ldots{}.''
+Example of the type of thing that gets fixed in updates (from the
+OpenSSL toolkit, January 2017): "BN_mod_exp may produce incorrect
+results on x86_64. There is a carry propagating bug in the x86_64
+Montgomery squaring procedure. No EC algorithms are affected. Analysis
+suggests that attacks against RSA and DSA as a result of this defect
+would be very difficult to perform and are not believed likely...."
 
-    I have no idea what Montgomery squaring is, although I sort of know
-    what some of the other stuff is. I \emph{do} know that little things
-    like this get fixed very often, and lots of little improvements add up
-    to a big improvement.
+I have no idea what Montgomery squaring is, although I sort of know
+what some of the other stuff is (mod_exp, EC, RSA, DSA). I *do* know
+that little things like this get fixed very often, and lots of little
+improvements add up to a big improvement.
 
 
-beyond 101, if you're interested
+Beyond 101, if you're interested
 --------
 
-* private mode avoids cookies and avoids storing history, but ISP can
+* Private mode avoids cookies and avoids storing history, but ISP can
   see what sites just fine. Tor stops that.
 
 * ISP can see you're using Tor. VPN would be a next step on top of
   Tor.
 
 * GPG (email self defense)
-* protonmail, mailvelope
-* password manager
+* Protonmail, Mailvelope
+* Password manager
 * YubiKey
 * LibreBoot
 
